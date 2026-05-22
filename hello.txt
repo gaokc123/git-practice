@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Hello Git, this is my first practice file  修改main的第一行
-=======
-Hello Git, this is my first practice file   修改分支的第一行
->>>>>>> feature-test
 Hello Git，这是我的第一个练习文件
 
 你好
